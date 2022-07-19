@@ -1,2 +1,2 @@
 # odin-recipes
-My First HTML project
+ODIN RECIPIES
