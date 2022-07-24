@@ -1,0 +1,28 @@
+* {
+    background-color: antiquewhite;
+    font-size: 18px;
+}
+.navbar {
+    padding-left: 0px;
+    
+}
+.navbar a {
+    text-decoration:none;
+}
+
+.navbar li {
+    list-style: none; 
+}
+
+img {
+    height: auto;
+    width: 150px;
+}
+
+h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+}
