@@ -1,6 +1,5 @@
 * {
     background-color: antiquewhite;
-    font-size: 12px;
 }
 
 h1, h2 {
@@ -9,15 +8,13 @@ h1, h2 {
 
 h1 {
     font-weight: bolder;
-    font-size: 24px;
 }
 h2 {
     font-weight: bold;
-    font-size: 20px;
 }
 
 img {
     height: auto;
-    width: 100px;
+    width: 200px;
 }
 

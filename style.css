@@ -1,6 +1,5 @@
 * {
     background-color: antiquewhite;
-    font-size: 18px;
 }
 .navbar {
     padding-left: 0px;
@@ -16,7 +15,7 @@
 
 img {
     height: auto;
-    width: 150px;
+    width: 200px;
 }
 
 h1, h2 {
